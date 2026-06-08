@@ -4,11 +4,13 @@
 
 <p><b>B.E. Electronics (Instrumentation & Control) · Thapar Institute of Engineering & Technology</b></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Building+in+ML+%26+Data+Systems+%F0%9F%9A%80;Turning+data+into+decisions;Python+%7C+scikit-learn+%7C+SQL)](https://git.io/typing-svg)
+<p>Welcome to my GitHub 👀</p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6C63FF)
 
 </div>
 
+---
 ---
 
 ## 🙋‍♀️ About Me
@@ -49,8 +51,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jasmeet-kaur31)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasmeetkaur31)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasmeetkaur310305@gmail.com)
 
 </div>
