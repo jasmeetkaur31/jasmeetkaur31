@@ -2,11 +2,9 @@
 
 <h1>Hi, I'm Jasmeet 👋</h1>
 
-<p><b>B.E. Electronics (Instrumentation & Control) · Thapar Institute of Engineering & Technology</b></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+%F0%9F%91%80;Feel+free+to+look+around!)](https://git.io/typing-svg)
 
 <p>Welcome to my GitHub 👀</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6C63FF)
 
 </div>
 
