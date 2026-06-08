@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Building+in+ML+%26+Data+Systems+%F0%9F%9A%80;Turning+data+into+decisions;Python+%7C+scikit-learn+%7C+SQL)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jasmeetkaur31&style=flat-square&color=6C63FF)
 
 </div>
 
@@ -17,9 +16,9 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" />
 
 - 🎓 **B.E. Electronics (Instrumentation & Control)** @ Thapar Institute
-- 🤖 Interested in **ML, anomaly detection & data systems**
-- 🛠 Building projects in **unsupervised ML & recommendation systems**
-- 🌱 Currently exploring **Docker, MLflow & BI tools**
+- 💡 Focused on **Data Science, AI/ML & Software Development**
+- 🛠 Building projects across **ML, data systems & backend development**
+- 🎯 Open to **SDE / ML / Data internships**
 
 <br clear="right"/>
 
