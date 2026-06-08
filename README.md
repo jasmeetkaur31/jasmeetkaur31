@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=160&section=header&text=Hi,%20I'm%20Jasmeet%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+%F0%9F%91%80;Feel+free+to+look+around!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+%F0%9F%91%80)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=jasmeetkaur31&style=flat-square&color=6C63FF)
 
 </div>
 
@@ -73,8 +74,6 @@
 
 ---
 
-
----
 
 ## 🤝 Connect
 
