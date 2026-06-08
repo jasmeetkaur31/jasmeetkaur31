@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=160&section=header&text=Hi,%20I'm%20Jasmeet%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<h1 align="center">!</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+%F0%9F%91%80)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=jasmeetkaur31&style=flat-square&color=6C63FF)
 
 </div>
 
@@ -22,6 +23,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right"/>
+
 ## 🛠 Tech Stack
 
 **💻 Languages**
@@ -29,6 +32,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -73,6 +77,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jasmeetkaur31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeetkaur31&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=jasmeetkaur31&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"/>
+</div>
+
+---
 
 ## 🤝 Connect
 
