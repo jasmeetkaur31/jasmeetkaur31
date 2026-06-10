@@ -15,7 +15,7 @@
 
 - 🎓 **B.E. Electronics (Instrumentation & Control)** @ Thapar Institute of Engineering & Technology
 - 💡 Focused on **Data Science, AI/ML & Software Development**
-- 🛠 Building projects across **ML, data systems & backend development**
+- 🛠 Building projects across **ML, data systems & full-stack development**
 - 🎯 Open to **SDE / ML / Data internships**
 
 <br clear="right"/>
